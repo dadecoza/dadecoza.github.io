@@ -37,7 +37,6 @@
             background-repeat: no-repeat;
             font-family: arial;
             text-align: center;
-            background-image: url(images/Screen1.PNG);
         }
 
         body {
@@ -190,13 +189,26 @@
         $(document).ready(function () {
             slide = 0;
             score = 0;
+            $('#animation').hide();
             confetti.stop();
-            updateSlide();
             $("#canvas").hide();
             $("#main").click(function () {
                 if (slide == 2) return;
                 incSlide();
             });
+            var tempImg = []
+            var x=0;
+            for(x=0;x<numberOfSlides;x++) {
+                tempImg[x] = new Image()
+                tempImg[x].src = "images/Screen"+(x+1)+".PNG";
+            }
+            x++;
+            tempImg[x] = new Image()
+            tempImg[x].src = "images/Animation1.GIF";
+            x++;
+            tempImg[x] = new Image()
+            tempImg[x].src = "images/Animation2.GIF";
+            updateSlide();
         });
     </script>
 </body>
