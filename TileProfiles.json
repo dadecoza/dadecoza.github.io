@@ -1,0 +1,818 @@
+{
+  "profiles": [
+    {
+      "tile": "Corona Virus FAQs",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Connect",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Vodafone News",
+      "grant": [
+        {
+          "vodaEmployeeType": [],
+          "country": []
+        }
+      ]
+    },
+    {
+      "tile": "Workplace",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Employee Directory",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Human Resources",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        },
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO",
+            "Employee"
+          ],
+          "country": [
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "HR Policies",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Rewards and Benefits",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Payslip",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Rewards Statement",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "E'ee on Assignment"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "IRP5",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Pension/Provident Fund",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Vodafone University",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Success Factors",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Boardroom Bookings",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": []
+        }
+      ]
+    },
+    {
+      "tile": "Boardroom Check-In",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": []
+        }
+      ]
+    },
+    {
+      "tile": "Facilities Requests",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "askIT",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "askIT chat bot",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "AskIT Chatbot",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Food Menu",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Gift and Hospitality",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "E'ee on Assignment",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Tanzania",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Giving External Gift",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "E'ee on Assignment",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Tanzania",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Receiving External Gift",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "E'ee on Assignment",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Tanzania",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Giving Internal Gift",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "E'ee on Assignment",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Tanzania",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Receiving Hospitality",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "E'ee on Assignment",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Tanzania",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Giving Hospitality",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "E'ee on Assignment",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Tanzania",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Wellbeing",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "VContractor",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Service Provider",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "VContractor",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "COVID-19",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Boardrooms",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VContractor"
+          ],
+          "country": []
+        }
+      ]
+    },
+    {
+      "tile": "IT Services",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Safety and Wellbeing",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "VContractor",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Wellbeing Service Providers",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "VContractor",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Drive Safe",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "NO NOT DISPLAY"
+          ],
+          "country": [
+            "NO NOT DISPLAY"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Ask HR",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+           "NO NOT DISPLAY"
+          ],
+          "country": [
+            "NO NOT DISPLAY"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Ask IT",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "VContractor",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "TOBI",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "VContractor",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "IT Information",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Induction Video",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Mandatory Pre-Screening",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Movement Permit",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant"
+          ],
+          "country": [
+            "South Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Wellbeing Support",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent",
+            "VContractor",
+            "Bursary Student",
+            "E'ee on Assignment",
+            "Consultant",
+            "VodacomOPCO"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Reward Letters",
+      "grant": [
+        {
+          "vodaEmployeeType": [
+            "Full Time Permanent"
+          ],
+          "country": [
+            "South Africa",
+            "Lesotho",
+            "Tanzania",
+            "DRC",
+            "Dem. Rep. Congo",
+            "Mozambique"
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Positive Case Reporting",
+      "grant": [
+        {
+          "vodaEmployeeType": [],
+          "country": []
+        }
+      ]
+    }
+  ]
+}
