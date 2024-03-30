@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/benadv/static/css/main.b64b482f.css",
+    "main.js": "/benadv/static/js/main.8b2c245d.js",
+    "static/js/453.10539f48.chunk.js": "/benadv/static/js/453.10539f48.chunk.js",
+    "static/media/boulder.png": "/benadv/static/media/boulder.e9a0ede069d99b1d56ef.png",
+    "static/media/sierra-sci-menu-font.ttf": "/benadv/static/media/sierra-sci-menu-font.8d683aa5637b499f11a4.ttf",
+    "static/media/cart.png": "/benadv/static/media/cart.9d194a5ab8c16eb7e943.png",
+    "static/media/oars.png": "/benadv/static/media/oars.0add60fca7866f25ace2.png",
+    "static/media/vines.png": "/benadv/static/media/vines.60c35c6e3bd3b172eec0.png",
+    "static/media/grease.png": "/benadv/static/media/grease.801d15c1e0505a276b13.png",
+    "static/media/dynamite.png": "/benadv/static/media/dynamite.b7fd78763c006fea2a1f.png",
+    "static/media/stump.png": "/benadv/static/media/stump.cb7acf8a4d2d9c6543af.png",
+    "static/media/knife.png": "/benadv/static/media/knife.0d9e46212615a460c9b4.png",
+    "index.html": "/benadv/index.html",
+    "main.b64b482f.css.map": "/benadv/static/css/main.b64b482f.css.map",
+    "main.8b2c245d.js.map": "/benadv/static/js/main.8b2c245d.js.map",
+    "453.10539f48.chunk.js.map": "/benadv/static/js/453.10539f48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64b482f.css",
+    "static/js/main.8b2c245d.js"
+  ]
+}
