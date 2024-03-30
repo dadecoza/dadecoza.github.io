@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/benadv/static/css/main.b64b482f.css",
-    "main.js": "/benadv/static/js/main.344e48b5.js",
+    "main.css": "/benadv/static/css/main.4c9e5196.css",
+    "main.js": "/benadv/static/js/main.70feb2c9.js",
     "static/js/453.10539f48.chunk.js": "/benadv/static/js/453.10539f48.chunk.js",
     "static/media/boulder.png": "/benadv/static/media/boulder.e9a0ede069d99b1d56ef.png",
     "static/media/sierra-sci-menu-font.ttf": "/benadv/static/media/sierra-sci-menu-font.8d683aa5637b499f11a4.ttf",
@@ -10,15 +10,16 @@
     "static/media/vines.png": "/benadv/static/media/vines.60c35c6e3bd3b172eec0.png",
     "static/media/grease.png": "/benadv/static/media/grease.801d15c1e0505a276b13.png",
     "static/media/dynamite.png": "/benadv/static/media/dynamite.b7fd78763c006fea2a1f.png",
+    "static/media/matches.png": "/benadv/static/media/matches.41e63e6fb24dc3ec89d9.png",
     "static/media/stump.png": "/benadv/static/media/stump.cb7acf8a4d2d9c6543af.png",
     "static/media/knife.png": "/benadv/static/media/knife.0d9e46212615a460c9b4.png",
     "index.html": "/benadv/index.html",
-    "main.b64b482f.css.map": "/benadv/static/css/main.b64b482f.css.map",
-    "main.344e48b5.js.map": "/benadv/static/js/main.344e48b5.js.map",
+    "main.4c9e5196.css.map": "/benadv/static/css/main.4c9e5196.css.map",
+    "main.70feb2c9.js.map": "/benadv/static/js/main.70feb2c9.js.map",
     "453.10539f48.chunk.js.map": "/benadv/static/js/453.10539f48.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b64b482f.css",
-    "static/js/main.344e48b5.js"
+    "static/css/main.4c9e5196.css",
+    "static/js/main.70feb2c9.js"
   ]
 }
